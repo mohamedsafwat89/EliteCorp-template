@@ -362,7 +362,7 @@ secondColor : #ec1c23
   top: 50%;
   margin-top: -158px
 }
-@media (max-width: 768px){
+@media (max-width: 576px){
 
 .testimonial .carousel-caption {
   top: 35%;
