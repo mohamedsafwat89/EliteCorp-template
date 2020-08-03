@@ -364,9 +364,10 @@ secondColor : #ec1c23
 }
 @media (max-width: 576px){
 
-.testimonial .carousel-caption {
-  top: 35%;
-  margin-top: -129px;
+.testimonial .carousel-item {
+  top: 50%;
+  /*top: 35%;
+  margin-top: -129px;*/
 }
 }
   /* @media (max-width: 768px){
@@ -425,7 +426,7 @@ secondColor : #ec1c23
 }
 @media (max-width: 576px){
   .testimonial .carousel-indicators{
-    margin: 0;
+    display: none;
   }
 }
 .testimonial .carousel-indicators li{
