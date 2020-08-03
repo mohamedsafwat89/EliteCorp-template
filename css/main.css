@@ -424,7 +424,7 @@ secondColor : #ec1c23
 .testimonial .carousel-indicators{
   margin: 10px 0;
 }
-@media (max-width: 576px){
+@media (max-width: 768px){
   .testimonial .carousel-indicators{
     display: none;
   }
