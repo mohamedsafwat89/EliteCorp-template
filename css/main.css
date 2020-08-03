@@ -338,6 +338,7 @@ secondColor : #ec1c23
   background-size: cover;
   background-image: url('../images/testimonial.jpg');
   position: relative;
+  margin: 50px 0;
 /*height: 500px; */
 }
 
