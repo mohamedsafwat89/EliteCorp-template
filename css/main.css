@@ -423,6 +423,11 @@ secondColor : #ec1c23
 .testimonial .carousel-indicators{
   margin: 10px 0;
 }
+@media (max-width: 576px){
+  .testimonial .carousel-indicators{
+    margin: 0;
+  }
+}
 .testimonial .carousel-indicators li{
   height: 10px;
   width : 10px;
@@ -430,7 +435,7 @@ secondColor : #ec1c23
   background-color:rgba(255, 255, 255, 0) ;
   border-radius: 50%;
   border: 2px solid #FFF;
-  margin : 10px;
+  margin : 0 10px;
 }
 /* End Testimonial*/
 
